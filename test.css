@@ -9,6 +9,14 @@ ul{
 
 }
 
+a{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    
+
+}
+
 #Header h1{
     font-size: 60px;
     font-family: "Passion One";
